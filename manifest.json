@@ -4,9 +4,10 @@
   "name": "Add To Miniflux",
   "version": "1.0",
 
-  "description": "Simple Firefox extension. Same as bookmarklet. Works only for Miniflux Hosting url (reader.miniflux.app) because i couldn't manage to create an options page.",
-  "homepage_url": "https://github.com/TaylanTatli/add-to-miniflux",
+  "description": "Add current page to Miniflux feed reader.",
+  "homepage_url": "https://github.com/skatkov/add-to-miniflux-webextension",
   "icons": {
+    "32": "icons/miniflux-48.png",
     "48": "icons/miniflux-48.png"
   },
 
